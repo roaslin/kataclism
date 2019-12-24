@@ -9,7 +9,7 @@
 [![MIT License](https://img.shields.io/npm/l/kataclism.svg?style=flat-square)](https://github.com/glippi/kataclism/blob/master/LICENSE)
 
 # 🥋⛩️ Kataclism
-This project aims to facilitate the life of all the **TDD disciples** and **kata practicioners**, wihch works with `JavaScript` or `TypeScript`.
+This project aims to facilitate the life of all the **TDD disciples** and **kata practicioners**, which works with `JavaScript` or `TypeScript`.
 As we know, in order to do a kata we need to setup always the same boring stuff, like `test`and `src` directories; moreover, we need to setup all the tooling that nowadays we need as JavaScript developers (babel, prettierc etc).
 I created this package to **reduce the time spent on bootstrapping the kata structure, and let the developer starts immediately to work on the kata**.
 
